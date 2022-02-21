@@ -5,11 +5,11 @@
 
 <frameset cols="35%,30%,35%">
 
-<frame src="number1.html"/>
+<frame src="number1.php"/>
 
-<frame src="number3.html"/>
+<frame src="number3.php"/>
 
-<frame src="number2.html"/>
+<frame src="number2.php"/>
 
 </frameset>
 
