@@ -16,7 +16,7 @@
 <br><a href= "CLE.html"> Click here!!</a>
 
 <p align="center"><i> Communication Arts in English:</font></i>
-<br><a href= "CAE.html">Click here!!</a>
+<br><a href= "CAE.php">Click here!!</a>
 
 <p align="right"><i> Mathematics:</font></i>
 <br><a href= "Math.html">Click here!!</a>
