@@ -8,9 +8,5 @@
 <frame src="number2.html"/>
 </frameset>
 
-<table border="2"align="center"cellspacing="0"width="15">
-<tr>
-<th>Group 4</th>
-</tr>
 
 </html>
